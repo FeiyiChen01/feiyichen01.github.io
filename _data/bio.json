@@ -9,17 +9,16 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "FeiyiChen01", "url": "http://github.com/FeiyiChen01" },
+      { "network": "linkedin", "username": "Feiyi Chen", "url": "http://linkedin.com/in/feiyi-chen-b73485234/" },
+      { "network": "twitter", "username": "FF", "url": "http://twitter.com/FF_OPEN_" },
+      { "network": "instagram", "username": "hc.527_", "url": "http://instagram.com/hc.527_" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Sofetware Engineering" },
+    { "name": "Game Design" },
+    { "name": "Web Developing" },
     { "name": "3D Graphics" }
   ],
   "skills": [
