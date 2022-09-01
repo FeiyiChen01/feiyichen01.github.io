@@ -6,8 +6,10 @@ title: "Crime Scene Data Acquisition"
 date: 2022-07-19
 published: true
 labels:
-  - Network security
+  - Data Acquisition
+  - 
 ---
+
 
 Introduction 
 
