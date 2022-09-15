@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg
+image: <img class="img-fluid" src="../img/og-default-image.jpeg">
 title: "Pokemon"
 date: 2020
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A basic Pokemon game I developed for ICS 111."
 ---
 
-<https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png>
+<img class="img-fluid" src="../img/Pokemon.jpeg">
 
 Pokemon is a game that has taken the world by storm. In ICS111 we were asked to make a simple game. I chose Pokmon as my project. As a freshman in CS,
 My ability only allows me to make a simple battle page.
