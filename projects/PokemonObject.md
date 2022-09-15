@@ -59,5 +59,10 @@ Users can edit Pokemon nicknames and get random HP and Spices.
 
 <hr>
 
+
+</pre>
+
+<hr>
+
 The list has a maximum limit, and after two fighting players have created their Pokmon,
 they start a battle with random damage until one player's Pokmon's HP is all equal to zero and the page shows that player 1 or player 2 has won。
