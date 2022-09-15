@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img class="img-fluid" src="../img/og-default-image.jpeg">
+image: img/og-default-image.jpeg
 title: "Pokemon"
 date: 2020
 published: true
