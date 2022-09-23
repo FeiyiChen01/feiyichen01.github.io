@@ -11,7 +11,7 @@ labels:
   - WOD
 ---
 
-Reflect on Javascript 1
+## Reflect on Javascript 1
 
 So far, I've been learning JavaScript for almost two weeks. JavaScript is ideal for beginners like me. It does not require tedious work such as setting up the development environment. Newcomers can jump in and start learning programming. JavaScript is by far the simplest for me compared to other programming languages. All I had to do was create some well-understood functions and finish up a maximum of 10 hours of JavaScript tutorials. Many of the JavaScript tutorials are similar to the Java language I learned earlier. JavaScript allowed me to actually learn programming languages on Chrome without having to deal with a cumbersome compiler.
 
