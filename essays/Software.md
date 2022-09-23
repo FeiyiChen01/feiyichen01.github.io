@@ -10,9 +10,11 @@ labels:
   - Software
 ---
 
+<img class="img-fluid" src="../img/Software1.gif">
+
 ## Software development is a universal skill
 
-<img width="200px" img class="img-fluid" src="../img/Software1.gif"> We think of math, biology, and chemistry as the basis for learning all kinds of other majors
+We think of math, biology, and chemistry as the basis for learning all kinds of other majors
 , and programming is no different. We need to do it mathematically
 , but in the modern world all kinds of complex engineering problems have to be calculated by programming
 . How can calculators and paper and pen meet real world problems?
@@ -21,9 +23,12 @@ Programming has become the cornerstone of all kinds of engineering
 
 ## Software development is an art
 
-Can you recall the first time you played a game?        <img width="200px" img class="img-fluid" src="../img/Software2.jpeg">
-How many people are motivated to become game developers through their interest in games. 
-Although software development is a career, developers can feel a sense of accomplishment when the screen displays colorful images. 
+Can you recall the first time you played a game?
+
+How many people are motivated to become game developers through their interest in games. <img width="200px" img class="img-fluid" src="../img/Software2.jpeg">
+
+Although software development is a career, developers can feel a sense of accomplishment when the screen displays colorful images.
+
 Think about the sense of accomplishment that you've created a program that's serving millions, millions of people.
 
 ## The future of software engineering
