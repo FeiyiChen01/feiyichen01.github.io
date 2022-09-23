@@ -10,7 +10,7 @@ labels:
   - 
 ---
 
-<img class="img-fluid" src="../img/dataAcquisition,jpeg">
+<img class="img-fluid" src="../img/dataAcquisition.jpeg">
 
 ## Introduction 
 
