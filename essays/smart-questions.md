@@ -11,11 +11,10 @@ labels:
   - StackOverflow
 ---
 
-<img class="img-fluid" src="../img/smartQuestion1.png">
 
 ## Reflect on smart questions?
 
-The ability to effectively communicate is the most important of all life skills. Having strong communication skills benefits us in many areas of our lives, from our professional to our personal lives, and everything in between. It enables others to accurately understand us and vice versa, as well as receive clear answers. Communication is one of the most important skills to develop as a software engineer, and by asking questions in the "smart way," software engineers will be able to succeed in their work in the long run.
+<img class="img-fluid" src="../img/smartQuestion1.png">  The ability to effectively communicate is the most important of all life skills. Having strong communication skills benefits us in many areas of our lives, from our professional to our personal lives, and everything in between. It enables others to accurately understand us and vice versa, as well as receive clear answers. Communication is one of the most important skills to develop as a software engineer, and by asking questions in the "smart way," software engineers will be able to succeed in their work in the long run.
 
 ## StackOverflow?
 
@@ -24,11 +23,10 @@ Stack Overflow is a public question and answer site for “professional and enth
 <hr>
 
 
-<img class="img-fluid" src="../img/smartQuestion.jpeg">
 
 ## The ‘Smart Way’
 
-Here is the [link](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) to a question that I searched in StackOverflow submitted by a developer that demonstrates the ‘smart way’. I think this post is a good example of asking a question the ‘smart way’. First, the developer mentions the programming language that their code is in. It allows the community who knows the language to answer the question. Then, the developer mentions the problem they are experiencing. They also include the code, and explicitly tell the community what’s going on. Based on my observations, the question is precise and informative. Since the question was informative, the answer given was also informative. They were specific and explained what happened, and were able to give examples to further their understanding. By asking questions the ‘smart way’, it also helps other people with similar questions.
+<img class="img-fluid" src="../img/smartQuestion.jpeg"> Here is the [link](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) to a question that I searched in StackOverflow submitted by a developer that demonstrates the ‘smart way’. I think this post is a good example of asking a question the ‘smart way’. First, the developer mentions the programming language that their code is in. It allows the community who knows the language to answer the question. Then, the developer mentions the problem they are experiencing. They also include the code, and explicitly tell the community what’s going on. Based on my observations, the question is precise and informative. Since the question was informative, the answer given was also informative. They were specific and explained what happened, and were able to give examples to further their understanding. By asking questions the ‘smart way’, it also helps other people with similar questions.
 
 ## The ‘Not Smart Way’
 
