@@ -24,11 +24,14 @@ Coding standards can definitely help us learn a programming language better. Thi
 <img class="img-fluid" src="../codingStandards2.jpeg">
 After my first week of using ESLint and IntelliJ, I found that coding standards really helped me learn to code. It helps me modify the use of `var` and `let`, and it helps me check for spelling errors. This is a "magic tool" for non-native English speakers. One of the most common mistakes I make in coding is spelling mistakes, so I can't find the reason why my code doesn't work properly. And coding standards can also be effective in correcting our code.
 For example：
-```
+
+```cpp
 const zipListTheSimpleWay = (letter, num) => {
 return _.flatten(_.zip(letter, num));
 }
 
 const zipListTheSimpleWay = (letter, num) => _.flatten(_.zip(letter, num));
 ```
+
+
 This is a mistake I often make in coding. Coding standards enable me to learn a programming language more clearly and effectively improve the efficiency of programming.
