@@ -11,6 +11,8 @@ labels:
   - StackOverflow
 ---
 
+<img class="img-fluid" src="../smartQuestion1.png">
+
 ## Reflect on smart questions?
 
 The ability to effectively communicate is the most important of all life skills. Having strong communication skills benefits us in many areas of our lives, from our professional to our personal lives, and everything in between. It enables others to accurately understand us and vice versa, as well as receive clear answers. Communication is one of the most important skills to develop as a software engineer, and by asking questions in the "smart way," software engineers will be able to succeed in their work in the long run.
@@ -18,6 +20,11 @@ The ability to effectively communicate is the most important of all life skills.
 ## StackOverflow?
 
 Stack Overflow is a public question and answer site for “professional and enthusiast programmers”. It features questions and answers on a wide range of topics in computer programming. In general, it allows people and programmers alike to be able to ask questions and receive answers from a wide range of people. By asking questions the ‘smart way’, the questions lead to both efficient and effective help. But, by asking questions the ‘not smart way’, the questions do not lead to efficient and effective help. There lacks communication between the person asking the question and the people trying to answer the question. It may make the question more confusing, and probably result in no answers. To help me form a deeper understanding of what constitutes ‘smart’ and ‘not smart’ questions, I have searched in StackOverflow demonstrating both and seeing how much more or less effective and efficient the answers are.
+
+
+<pre>
+
+<img class="img-fluid" src="../img/smartQuestion.jpeg">
 
 ## The ‘Smart Way’
 
