@@ -24,11 +24,9 @@ Programming has become the cornerstone of all kinds of engineering
 ## Software development is an art
 
 Can you recall the first time you played a game?
-
 How many people are motivated to become game developers through their interest in games. <img width="200px" img class="img-fluid" src="../img/Software2.jpeg">
 
 Although software development is a career, developers can feel a sense of accomplishment when the screen displays colorful images.
-
 Think about the sense of accomplishment that you've created a program that's serving millions, millions of people.
 
 ## The future of software engineering
