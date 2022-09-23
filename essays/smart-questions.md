@@ -23,7 +23,6 @@ Stack Overflow is a public question and answer site for “professional and enth
 
 <hr>
 
-<pre>
 
 <img class="img-fluid" src="../img/smartQuestion.jpeg">
 
