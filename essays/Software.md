@@ -22,11 +22,11 @@ Programming has become the cornerstone of all kinds of engineering
 , medical, biological, chemical, and materials. From atomic bomb simulations to rocket launches to Uber.
 
 ## Software development is an art
-
+<img width="200px" img class="img-fluid" src="../img/Software2.jpeg">
 Can you recall the first time you played a game?
 How many people are motivated to become game developers through their interest in games. 
 Although software development is a career, developers can feel a sense of accomplishment when the screen displays colorful images.
-Think about the sense of accomplishment that you've created a program that's serving millions, millions of people. <img width="200px" img class="img-fluid" src="../img/Software2.jpeg">
+Think about the sense of accomplishment that you've created a program that's serving millions, millions of people.
 
 ## The future of software engineering
 
