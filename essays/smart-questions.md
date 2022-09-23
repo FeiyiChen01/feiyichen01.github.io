@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="img-fluid" src="../smartQuestion1.png">
+<img class="img-fluid" src="../img/smartQuestion1.png">
 
 ## Reflect on smart questions?
 
