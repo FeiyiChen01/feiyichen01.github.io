@@ -26,6 +26,7 @@ The downside of the UI framework is its compatibility and time commitment. There
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 ```
+
 Because you have to load these.
 
 ## Conclusion
