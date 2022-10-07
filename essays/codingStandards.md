@@ -22,7 +22,7 @@ Coding standards can definitely help us learn a programming language better. Thi
 
 ## Experience with Coding Standards
 <img class="img-fluid" src="../img/codingStandards2.jpeg">
-After my first week of using ESLint and IntelliJ, I found that coding standards really helped me learn to code. It helps me modify the use of `text-left` and `let`, and it helps me check for spelling errors. This is a "magic tool" for non-native English speakers. One of the most common mistakes I make in coding is spelling mistakes, so I can't find the reason why my code doesn't work properly. And coding standards can also be effective in correcting our code.
+After my first week of using ESLint and IntelliJ, I found that coding standards really helped me learn to code. It helps me modify the use of `cpp var` and `cpp let`, and it helps me check for spelling errors. This is a "magic tool" for non-native English speakers. One of the most common mistakes I make in coding is spelling mistakes, so I can't find the reason why my code doesn't work properly. And coding standards can also be effective in correcting our code.
 For example：
 
 ```cpp
