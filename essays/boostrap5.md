@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img class="img-fluid" src="../img/boostrap2.png" width="100px">
+<img class="img-fluid" src="../img/boostrap2.png" width="150px">
 
 ## Advantages of the UI framework
 
