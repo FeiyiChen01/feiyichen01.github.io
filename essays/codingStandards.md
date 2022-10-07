@@ -22,6 +22,7 @@ Coding standards can definitely help us learn a programming language better. Thi
 
 ## Experience with Coding Standards
 <img class="img-fluid" src="../img/codingStandards2.jpeg">
+
 After my first week of using ESLint and IntelliJ, I found that coding standards really helped me learn to code. It helps me modify the use of
 `var`
 and
