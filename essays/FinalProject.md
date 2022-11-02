@@ -13,6 +13,7 @@ Collaboratively written by
 
 ## Overview:
 Problem: There are very few kinds of cafeteria in Hawaii. Many students walk into the cafeteria and don't know what they need to buy to eat. They don't have a good recommendation.
+<br />
 Solution: The app allows students to freely comment on existing foods and offer suggestions and recipes for new foods. Businesses will also be able to make better sales and take reservations on the site.
 
 ## Mockup pages include:
