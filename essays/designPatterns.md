@@ -10,14 +10,14 @@ labels:
   - Design Patterns
 ---
 
-<img class="img-fluid" src="../img/Factory1.png" width="100px">
+<img class="img-fluid" src="../img/Factory1.png" width="500px">
 
 ## Design Patterns
 In software engineering, Design Pattern is a proposed solution to a variety of common (recurring) problems in software design
 
 Usually we write code, most of the cases are pipeline-type code, basically can achieve business logic. The best way to have fun writing code, I think, is to use design patterns to optimize your own business code.
 
-<img class="img-fluid" src="../img/Factory2.png" width="50px">
+<img class="img-fluid" src="../img/Factory2.png" width="200px">
 
 In a variety of design patterns, the Factory Method Pattern is my favorite and one that I often use. In the factory method pattern, the factory parent class is responsible for defining the public interface to create product objects, while the factory subclass is responsible for generating concrete product objects. The purpose of this is to defer the instantiation of the product class to the factory subclass, which determines which concrete product class should be instantiated.
 
