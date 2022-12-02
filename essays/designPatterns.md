@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="img-fluid" src="../img/factory.png">
+<img class="img-fluid" src="../img/Factory.png">
 
 ## Design Patterns
 In software engineering, Design Pattern is a proposed solution to a variety of common (recurring) problems in software design
