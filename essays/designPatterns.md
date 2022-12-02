@@ -39,7 +39,7 @@ class BMW840Factory extends BMWFactory {
 }
 ```
 
-* We created two factory classes, BMW730Factory and BMW840Factory, respectively, and used instances of these two classes to produce different models of cars.
+We created two factory classes, BMW730Factory and BMW840Factory, respectively, and used instances of these two classes to produce different models of cars.
 
 ```
 const bmw730Factory = new BMW730Factory();
