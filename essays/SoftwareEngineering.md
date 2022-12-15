@@ -13,7 +13,7 @@ labels:
 
 <img class="img-fluid" src="../img/SE1.png" width="400px">
 
-## Reflect on Software Engineering
+## Technology connects Life
 
 &nbsp;&nbsp;&nbsp;&nbsp;This semester I learned a lot about the basic concepts of software engineering, and it has been interesting to apply this knowledge to web application development. My team and I managed and developed our projects by applying basic knowledge of software engineering. As we watched pages that didn't exist get created bit by bit, we designed it, developed it, ran it, and built a database to support it. These results make us happy.
 
