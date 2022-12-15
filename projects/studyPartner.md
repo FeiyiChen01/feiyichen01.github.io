@@ -12,7 +12,13 @@ labels:
 summary: "A website for ICS students, me and my groups developed for ICS 314."
 ---
 
-<img class="img-fluid" src="../img/study-partner.png" width="100px">
+# Study-Partner
+* [Project Overview](#overview)
+* [Project Contribution](#project-contribution)
+* [Learning](#knowledge-learning)
+* [Details](#details)
+
+## Overview
 
 Study Partner is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
@@ -56,5 +62,20 @@ $ meteor npm run testcafe-ci
 
 $
 ```
+## Project Contribution
 
+In this project, a total of five members of our team helped and communicated with each other to complete the project.
+
+Among these, my main contribution is the development of Join Session Page and Create Session Page. As well as participate in default database modification, application deployment and home page editing.
+
+Detailed task assignment can be seen:
+* [Milestone 1](https://github.com/orgs/study-partner/projects/1)
+* [Milestone 2](https://github.com/orgs/study-partner/projects/2)
+* [Milestone 3](https://github.com/orgs/study-partner/projects/3)
+
+## Knowledge Learning
+
+In this project, I can mainly apply the basic development knowledge of software engineering. Learn to use HTML and JSX coding knowledge and database connection. And test my page with Testcafe. Along the way, I also learned how to deploy my applications on the site and update them.
+
+## Details
 More details can be found on our [app homepage](https://study-partner.github.io/).
