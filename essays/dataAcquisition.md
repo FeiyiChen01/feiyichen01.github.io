@@ -4,7 +4,7 @@ type: essay
 title: "Crime Scene Data Acquisition"
 # All dates must be YYYY-MM-DD format!
 date: 2022-07-19
-published: true
+published: false
 labels:
   - Data Acquisition
   - 
