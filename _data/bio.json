@@ -32,21 +32,21 @@
     }
   ],
   "education": [
+        {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Natural Science, Concentration ICT",
       "studyType": "College Degree",
       "startDate": "2019-08-01",
       "endDate": "2021-12-23",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2022-01",
-      "endDate": "Present",
       "courses": [
       ]
     }
