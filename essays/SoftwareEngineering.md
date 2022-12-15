@@ -15,7 +15,7 @@ labels:
 
 ## Reflect on Software Engineering
 
-\tThis semester I learned a lot about the basic concepts of software engineering, and it has been interesting to apply this knowledge to web application development. My team and I managed and developed our projects by applying basic knowledge of software engineering. As we watched pages that didn't exist get created bit by bit, we designed it, developed it, ran it, and built a database to support it. These results make us happy.
+\t This semester I learned a lot about the basic concepts of software engineering, and it has been interesting to apply this knowledge to web application development. My team and I managed and developed our projects by applying basic knowledge of software engineering. As we watched pages that didn't exist get created bit by bit, we designed it, developed it, ran it, and built a database to support it. These results make us happy.
 
 During the production process, we used different project management styles and different design patterns. These ways of thinking don't just apply to software development or web design. It's an act that reinforces the way we think. By applying my knowledge of software engineering, I was able to better think about the overall framework of what I was going to do. I can have a better plan to get my things done. And through Design Patterns, I can also improve my aesthetic, or artistic field.
 
