@@ -4,7 +4,7 @@ type: project
 image: img/download.jpeg
 title: "Speaker"
 date: 2019
-published: true
+published: false
 labels:
   - DIY
 summary: "Make an own speaker according to the drawings."
