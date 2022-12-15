@@ -12,7 +12,7 @@ labels:
 summary: "A website for ICS students, me and my groups developed for ICS 314."
 ---
 
-<img class="img-fluid" src="../img/study-partner.png">
+<img class="img-fluid" src="../img/study-partner.png" width="100px">
 
 Study Partner is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
@@ -24,6 +24,37 @@ Study Partner can be used as a development template for developers to use.
 
 The Study Partner has been deployed on the Digital Ocean.
 
-Deployed application can be found at https://study-partner.xyz/.
+Deployed application can be found at [https://study-partner.xyz/](https://study-partner.xyz/)
 
-More details can be found on our app homepage
+All pages are via testcafe.
+
+```
+$ meteor npm run testcafe-ci
+
+> study-partner@ testcafe-ci /Users/feiyichen/github/study-partner/study-partner/app
+> testcafe chrome:headless tests/*.testcafe.js -q --app "meteor npm run start"
+
+ Running tests in:
+ - Chrome 86.0.4240.111 / macOS 10.15.7
+
+ study-partner localhost test with default db
+ ✓ Test that landing page shows up
+ ✓ Test that signin and signout work
+ ✓ Test that signup page, then logout works
+ ✓ Test that profiles page displays
+ ✓ Test that profile page display and profile modification works
+ ✓ Test that calendar page works
+ ✓ Test that contact admin page works
+ ✓ Test that admin view reports works
+ ✓ Test that the home page displays
+ ✓ Test that leaderboard works
+ ✓ Test that join session page displays
+ ✓ Test that create session page works
+
+
+ 12 passed (2m 52s)
+
+$
+```
+
+More details can be found on our [app homepage](https://study-partner.github.io/).
