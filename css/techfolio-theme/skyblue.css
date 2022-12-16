@@ -15,7 +15,7 @@
   --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue3);
   --tf-icon-fill: var(--tf--black1);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--tf-black1);
   --tf-footer-bg-color: var(--tf-blue4);
   --tf-projects-bg-color: var(--tf-blue4);
 }
