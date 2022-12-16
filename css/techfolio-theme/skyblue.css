@@ -13,22 +13,22 @@
   --tf--black1: #000000;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-blue1);
-  --tf-pill-bg: var(--tf-blue3);
+  --tf-pill-bg: var(--tf-black1);
   --tf-icon-fill: var(--tf--black1);
   --tf-page-bg-color: var(--tf-black1);
-  --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue4);
+  --tf-footer-bg-color: var(--tf-black1);
+  --tf-projects-bg-color: var(--tf-black1);
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--tf-blue1);
+  color: var(--tf-black1);
   font-family: Rubik;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-black1);
+  fill: var(--tf-blue1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
