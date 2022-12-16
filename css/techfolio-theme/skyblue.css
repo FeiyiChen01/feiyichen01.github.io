@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue1);
+  fill: var(--tf-black1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
