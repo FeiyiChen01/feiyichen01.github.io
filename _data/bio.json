@@ -19,6 +19,7 @@
     { "name": "Web Developing" },
     { "name": "3D Graphics" }
   ],
+  
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -29,6 +30,7 @@
       "keywords": [ "MacOS", "Git/GitHub", "TI LaunchPad" ]
     }
   ],
+  
   "education": [
         {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
@@ -49,6 +51,7 @@
       ]
     }
   ],
+  
   "references": [
     {
       "name": "Available upon request"
