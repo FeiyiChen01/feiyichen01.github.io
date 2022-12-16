@@ -12,7 +12,7 @@
   --tf-blue4: #bde3f0;
   --tf--black1: #000000;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-blue1);
+  --bs-link-color: var(--tf-black1);
   --tf-pill-bg: var(--tf-black1);
   --tf-icon-fill: var(--tf--black1);
   --tf-page-bg-color: var(--tf-black1);
