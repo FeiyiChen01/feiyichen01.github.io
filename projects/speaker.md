@@ -10,7 +10,7 @@ labels:
 summary: "Make an own speaker according to the drawings."
 ---
 
-<img class="img-fluid" src="../img/music2.jpeg">
+<img class="img-fluid" src="../img/music2.jpeg" alt="music">
 
 
 <hr>

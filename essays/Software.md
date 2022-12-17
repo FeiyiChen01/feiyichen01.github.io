@@ -39,7 +39,7 @@ this is almost the global rise of the Internet industry.
 Almost all the "Internet" that we see now is the result of the development of related industries driven by Internet technology. 
 In the next decade or two, we think that this technology is going to continue and that the development of computers and 
 the Internet is going to be an important driving force for the development of society. 
-Although our society is constantly informationized, the level of informatization in many fields is still 
+Although our society is constantly information, the level of informatization in many fields is still 
 not high and the development is not complete. Software engineering is a discipline with great demand and vigorous development.
 
 In the future, I would like to have experience and skills in game development. 

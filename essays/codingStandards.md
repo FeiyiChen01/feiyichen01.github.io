@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img class="img-fluid" src="../img/codingStandards1.png">
+<img class="img-fluid" src="../img/codingStandards1.png" alt="1">
 
 ## Can Coding Standards Help to Learn a Programming Language?
 There is a wealth of literature that emphasizes the advantages of having consistent coding styles and standards. The majority of readers will undoubtedly agree with the following:
@@ -21,13 +21,13 @@ Inexperienced developers and cowboys who don't know any better will frequently o
 Coding standards can definitely help us learn a programming language better. This is a way to improve the quality of our coding. In some cases, we have to share our work with others. Coding standards facilitate collaboration. If everyone writes code in their own way, we start thinking everyone is wrong. The quality and efficiency of coding can be effectively improved by a standard accepted by the public.
 
 ## Experience with Coding Standards
-<img class="img-fluid" src="../img/codingStandards2.jpeg">
+<img class="img-fluid" src="../img/codingStandards2.jpeg" alt="2">
 
 After my first week of using ESLint and IntelliJ, I found that coding standards really helped me learn to code. It helps me modify the use of
 `var`
 and
 `let`
-, and it helps me check for spelling errors. This is a "magic tool" for non-native English speakers. One of the most common mistakes I make in coding is spelling mistakes, so I can't find the reason why my code doesn't work properly. And coding standards can also be effective in correcting our code.
+ and it helps me check for spelling errors. This is a "magic tool" for non-native English speakers. One of the most common mistakes I make in coding is spelling mistakes, so I can't find the reason why my code does not work properly. And coding standards can also be effective in correcting our code.
 For example：
 
 ```cpp

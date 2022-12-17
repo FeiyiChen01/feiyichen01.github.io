@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img class="img-fluid" src="../img/boostrap2.png" width="150px">
+<img class="img-fluid" src="../img/boostrap2.png" width="150px" alt="b2">
 
 ## Advantages of the UI framework
 
@@ -19,7 +19,7 @@ The UI framework makes it easier for new people to get started, with plenty of c
 
 ## Disadvantages of the UI framework
 
-The downside of the UI framework is its compatibility and time commitment. There are plenty of examples of UI frameworks out there, but it takes time to memorize how to use them properly. It's not easy, it's almost like learning a new programming language. If you have your own special needs, you need to re-style, and if you have a site with a lot of non-bootstrap style styles, you need to do a lot of CSS rewriting, and therefore lose the point of using a framework. In terms of compatibility, it can cause slow loading and affect the user experience.
+The downside of the UI framework is its compatibility and time commitment. There are plenty of examples of UI frameworks out there, but it takes time to memorize how to use them properly. It's not easy, it's almost like learning a new programming language. If you have your own special needs, you need to re-style, and if you have a site with a lot of non-bootstrap styles, you need to do a lot of CSS rewriting, and therefore lose the point of using a framework. In terms of compatibility, it can cause slow loading and affect the user experience.
 
 ## Conclusion
 In general, the UI framework is a great way to help us with page authoring. Learning the UI framework was definitely fun. It's a lifesaver for people like me who are not good at styling pages.

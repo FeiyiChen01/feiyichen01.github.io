@@ -10,7 +10,7 @@ labels:
 summary: "Java Web student dormitory management system development."
 ---
 
-<img class="img-fluid" src="../img/management system.png">
+<img class="img-fluid" src="../img/management system.png" alt="management">
 
 Student dormitory management system is a Chinese management web page that I made after learning ICS211 and following teaching videos.
 
