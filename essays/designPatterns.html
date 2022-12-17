@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Design Patterns | Feiyi Chen | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/FeiyiChen01.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Feiyi Chen | Professional Portfolio">
+    <meta property="og:url" content="https://feiyichen01.github.io/essays/designPatterns.html">
+    <meta property="og:title" content="Design Patterns | Feiyi Chen | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/FeiyiChen01.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Design Patterns | Feiyi Chen | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Feiyi Chen</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Design Patterns</h1>
+  <span class="date">01 Dec 2022</span>
+  <hr>
+  <p><img class="img-fluid" src="../img/Factory1.png" width="500px" /></p>
+
+<h2 id="design-patterns">Design Patterns</h2>
+<p>In software engineering, Design Pattern is a proposed solution to a variety of common (recurring) problems in software design</p>
+
+<p>Usually we write code, most of the cases are pipeline-type code, basically can achieve business logic. The best way to have fun writing code, I think, is to use design patterns to optimize your own business code.</p>
+
+<p><img class="img-fluid" src="../img/Factory2.png" width="200px" /></p>
+
+<p>In a variety of design patterns, the Factory Method Pattern is my favorite and one that I often use. In the factory method pattern, the factory parent class is responsible for defining the public interface to create product objects, while the factory subclass is responsible for generating concrete product objects. The purpose of this is to defer the instantiation of the product class to the factory subclass, which determines which concrete product class should be instantiated.</p>
+
+<p>Simulating the purchase process of users, the two customers ordered BMW730 and BMW840 models from BMW730 and BMW840 factories respectively, and then the factories produced them according to the corresponding models and delivered them to the users after the production was completed.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>abstract class BMWFactory {
+  abstract produceBMW(): BMW;
+}
+
+class BMW730Factory extends BMWFactory {
+  produceBMW(): BMW {
+    return new BMW730();
+  }
+}
+
+class BMW840Factory extends BMWFactory {
+  produceBMW(): BMW {
+    return new BMW840();
+  }
+}
+</code></pre></div></div>
+
+<p>We created two factory classes, BMW730Factory and BMW840Factory, respectively, and used instances of these two classes to produce different models of cars.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const bmw730Factory = new BMW730Factory();
+const bmw840Factory = new BMW840Factory();
+
+const bmw730 = bmw730Factory.produceBMW();
+const bmw840 = bmw840Factory.produceBMW();
+
+bmw730.run();
+bmw840.run();
+</code></pre></div></div>
+<p>A class does not know the class of the object it needs: In the factory method pattern, the client does not need to know the class name of the specific product class, only the corresponding factory. The specific product object is created by the specific factory class. The client needs to know the factory class to create the specific product.</p>
+
+<p>A class specifies which object to create through its subclasses: In the factory method pattern, the abstract factory class only needs to provide an interface to create a product, and its subclasses determine the specific object to be created. Using object-oriented polymorphism and the principle of Richter’s substitution, the subclass object overwrites the parent object while the program is running, thus making the system easier to scale.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

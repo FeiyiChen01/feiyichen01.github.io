@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Feiyi Chen",
+    "label": "Student",
+    "picture": "https://github.com/FeiyiChen01.png",
+    "email": "feiyi@hawaii.edu",
+    "phone": "808-670-9259",
+    "website": "https://feiyichen01.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "3467 Maunaloa Ave", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "FeiyiChen01", "url": "http://github.com/FeiyiChen01" },
+      { "network": "linkedin", "username": "Feiyi Chen", "url": "http://linkedin.com/in/feiyi-chen-b73485234/" },
+      { "network": "twitter", "username": "FF", "url": "http://twitter.com/FF_OPEN_" },
+      { "network": "instagram", "username": "hc.527_", "url": "http://instagram.com/hc.527_" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Game Design" },
+    { "name": "Web Developing" },
+    { "name": "3D Graphics" }
+  ],
+  
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "TI LaunchPad" ]
+    }
+  ],
+  
+  "education": [
+        {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Natural Science, Concentration ICT",
+      "studyType": "College Degree",
+      "startDate": "2019-08-01",
+      "endDate": "2021-12-23",
+      "courses": [
+      ]
+    }
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
