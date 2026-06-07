@@ -1,4 +1,22 @@
+---
+layout: project
+type: project
+image: img/AIRealSceneAsset.png
+title: "AI Real Scene Asset Composition"
+date: 2026
+published: True
+labels:
+  - Python
+  - FastAPI
+  - React
+  - TypeScript
+  - REST API development
+summary: "Full-stack visual composition platform for placing user-provided assets into real-world scene images with local persistence, per-asset masks, and multi-asset image generation."
+---
+
 # AI-Assisted Real-Scene Visual Composition Platform
+
+<img class="img-fluid" src="../img/AIRealSceneAsset.png" alt="AIReal">
 
 A full-stack visual composition platform that allows users to upload real-world scene images, upload multiple custom design assets, define asset-specific placement regions, and generate realistic multi-asset composite images.
 
