@@ -61,7 +61,51 @@
       ]
     }
   ],
-  
+
+  "work": [
+    {
+      "company": "Hawaii Digital Health Lab",
+      "position": "Web Developer",
+      "website": "https://hawaiidigitalhealthlab.com/",
+      "startDate": "2023-05",
+      "endDate": "08/2023",
+      "description": [
+        "Developed and integrated 3 interactive web-based games into an existing clinical research platform using HTML, CSS, and JavaScript to support structured behavioral data collection.",
+        "Implemented real-time interaction logic to capture user responses and gameplay behavior for downstream research analysis.",
+        "Collaborated with researchers to refine frontend workflows, usability requirements, and data collection logic for developmental condition screening tools.",
+        "Improved maintainability of interactive research modules by organizing UI behavior, event handling, and data capture flows into reusable frontend patterns."
+      ]
+    },
+    {
+      "company": "MangoGo Inc",
+      "position": "IT Support & Customer Data Assistant",
+      "website": "",
+      "startDate": "2021-05",
+      "endDate": "2022-08",
+      "description": [
+        "Collected, categorized, and documented Airbnb guest support requests involving WiFi connectivity, smart locks, TVs, printers, mobile devices, and in-room equipment issues.",
+        "Maintained structured customer issue logs to track issue categories, resolution status, escalation needs, and recurring technical patterns.",
+        "Analyzed recurring support records to identify common guest pain points and improve response efficiency for customer service workflows",
+        "Provided first-level troubleshooting for laptops, desktops, hardware peripherals, in-room WiFi, printers, mobile devices, and remote smart lock systems.",
+        "Maintained accurate inventory records for borrowed devices, replacement equipment, hardware repairs, and service documentation."
+      ]
+    },
+    {
+      "company": "e-Customization studio",
+      "position": "Frontend Developer",
+      "website": "https://www.edzsource.com/help?id=12",
+      "startDate": "2019-01",
+      "endDate": "2019-08",
+      "description": [
+        "Designed and implemented reusable frontend page structures for a Print-on-Demand e-commerce platform, including help-center articles, sidebar navigation, and step-by-step product listing guides.",
+        "Built data-driven content layouts with HTML, CSS, and JavaScript, allowing Amazon, Shopify, and WooCommerce tutorials to share a reusable page template.",
+        "Participated in designing product customization workflows that mapped user-uploaded 2D artwork onto footwear templates to generate final product preview images.",
+        "Organized product listing data, including SKU, product attributes, marketplace templates, and export-ready files, to support batch listing workflows for e-commerce sellers.",
+        "Applied responsive layout and user-centered design principles to improve readability, navigation, and seller onboarding across desktop and mobile devices."
+      ]
+    }
+  ],
+
   "references": [
     {
       "name": "Available upon request"

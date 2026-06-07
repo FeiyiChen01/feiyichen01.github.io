@@ -226,7 +226,8 @@ Project metadata, background images, asset images, masks, generated results
 
 ## Project Structure
 
-`project-root/
+```
+project-root/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py
@@ -259,18 +260,21 @@ Project metadata, background images, asset images, masks, generated results
 │   └── vite.config.ts
 │
 ├── .gitignore
-└── README.md`
+└── README.md
+```
 
 ## Local Storage Design
 
 Each project is stored under a unique project directory.
-`backend/app/storage/projects/
+```
+backend/app/storage/projects/
 └── project_xxxxx/
     ├── project.json
     ├── backgrounds/
     ├── assets/
     ├── asset_masks/
-    └── results/`
+    └── results/
+```
 
 The project.json file stores the full project state.
 
@@ -288,35 +292,40 @@ The project.json file stores the full project state.
 
 ## API Overview
 ### Project APIs
-`POST /api/projects`
-`GET /api/projects/{project_id}`
+``POST /api/projects``
+``GET /api/projects/{project_id}``
 ### Background Upload
-`POST /api/projects/{project_id}/background`
+```POST /api/projects/{project_id}/background```
 ### Asset Upload
-`POST /api/projects/{project_id}/assets`
+````POST /api/projects/{project_id}/assets````
 ### Asset Mask
-`POST /api/projects/{project_id}/asset-masks`
+```POST /api/projects/{project_id}/asset-masks```
 ### Placement Management
-`POST /api/projects/{project_id}/placements
+```
+POST /api/projects/{project_id}/placements
 PUT /api/projects/{project_id}/placements
-DELETE /api/projects/{project_id}/placements/{placement_id}`
+DELETE /api/projects/{project_id}/placements/{placement_id}
+```
 ### Image Composition
-`POST /api/projects/{project_id}/compose`
+```POST /api/projects/{project_id}/compose```
 
 ## How to Run Locally
 ### Backend Setup
-`cd backend
+```cd backend
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8000`
+uvicorn app.main:app --reload --port 8000
+```
 
 ### Frontend Setup
 
 Open a second terminal:
-`cd frontend
+```
+cd frontend
 npm install
-npm run dev`
+npm run dev
+```
 
 ## Usage Guide
 Open the frontend page.
