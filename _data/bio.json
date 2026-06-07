@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Feiyi Chen",
-    "label": "Student",
     "picture": "https://github.com/FeiyiChen01.png",
     "email": "feiyichen6@gmail.com",
     "phone": "808-670-9259",
@@ -11,7 +10,7 @@
     "profiles": [
       { "network": "github", "username": "FeiyiChen01", "url": "http://github.com/FeiyiChen01" },
       { "network": "linkedin", "username": "Feiyi Chen", "url": "http://linkedin.com/in/feiyi-chen-b73485234/" },
-      { "network": "twitter", "username": "FF", "url": "http://twitter.com/FF_OPEN_" },
+      { "network": "twitter", "username": "FF", "url": "https://x.com/feiyi_chen" },
       { "network": "instagram", "username": "hc.527_", "url": "http://instagram.com/hc.527_" }
     ]
   },
