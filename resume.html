@@ -122,7 +122,7 @@ layout: home
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
               <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.description }}</p>
+              <p class="mb-0">{{ entry.summary }}</p>
               {% if entry.highlights %}
                 <ul>
                   {% for highlight in entry.highlights %}

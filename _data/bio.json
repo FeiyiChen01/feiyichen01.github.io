@@ -69,7 +69,7 @@
       "website": "https://hawaiidigitalhealthlab.com/",
       "startDate": "2023-05",
       "endDate": "08/2023",
-      "description": [
+      "highlights": [
         "Developed and integrated 3 interactive web-based games into an existing clinical research platform using HTML, CSS, and JavaScript to support structured behavioral data collection.",
         "Implemented real-time interaction logic to capture user responses and gameplay behavior for downstream research analysis.",
         "Collaborated with researchers to refine frontend workflows, usability requirements, and data collection logic for developmental condition screening tools.",
@@ -82,7 +82,7 @@
       "website": "",
       "startDate": "2021-05",
       "endDate": "2022-08",
-      "description": [
+      "highlights": [
         "Collected, categorized, and documented Airbnb guest support requests involving WiFi connectivity, smart locks, TVs, printers, mobile devices, and in-room equipment issues.",
         "Maintained structured customer issue logs to track issue categories, resolution status, escalation needs, and recurring technical patterns.",
         "Analyzed recurring support records to identify common guest pain points and improve response efficiency for customer service workflows",
