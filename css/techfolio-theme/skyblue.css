@@ -10,18 +10,18 @@
   --tf-blue2: #1b6fa9;
   --tf-blue3: #2f8ed0;
   --tf-blue4: #bde3f0;
+  --tf-black1: #000000;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-blue1);
-  --tf-pill-bg: var(--tf-blue3);
-  --tf-icon-fill: var(--tf-blue1);
-  --tf-icon-hover: var(--tf-blue3);
-  --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue4);
+  --bs-link-color: var(--tf-black1);
+  --tf-pill-bg: var(--tf-black1);
+  --tf-icon-fill: var(--tf--black1);
+  --tf-page-bg-color: var(--tf-black1);
+  --tf-footer-bg-color: var(--tf-black1);
+  --tf-projects-bg-color: var(--tf-black1);
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--tf-blue1);
+  color: var(--tf-black1);
   font-family: Rubik;
 }
 
@@ -32,25 +32,10 @@ h1,h2,h3,h4,h5 {
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
-  transition: 0.2s;
-}
-
-.tf-social:hover {
-  fill: var(--tf-icon-hover);
 }
 
 a {
   text-decoration: none;
-}
-
-@media (max-width: 500px) {
-  .navbar-brand {
-    display: none;
-  }
-
-  .navbar-brand-mobile {
-    display: inline;
-  }
 }
 
 .rounded-circle {
