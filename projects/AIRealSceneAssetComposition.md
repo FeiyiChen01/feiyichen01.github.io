@@ -292,26 +292,44 @@ The project.json file stores the full project state.
 
 ## API Overview
 ### Project APIs
-``POST /api/projects``
-``GET /api/projects/{project_id}``
+
+```
+POST /api/projects`
+GET /api/projects/{project_id}
+```
 ### Background Upload
-```POST /api/projects/{project_id}/background```
+
+```
+POST /api/projects/{project_id}/background
+```
 ### Asset Upload
-````POST /api/projects/{project_id}/assets````
+
+```
+POST /api/projects/{project_id}/assets
+```
 ### Asset Mask
-```POST /api/projects/{project_id}/asset-masks```
+
+```
+POST /api/projects/{project_id}/asset-masks
+```
 ### Placement Management
+
 ```
 POST /api/projects/{project_id}/placements
 PUT /api/projects/{project_id}/placements
 DELETE /api/projects/{project_id}/placements/{placement_id}
 ```
 ### Image Composition
-```POST /api/projects/{project_id}/compose```
+
+```
+POST /api/projects/{project_id}/compose
+```
 
 ## How to Run Locally
 ### Backend Setup
-```cd backend
+
+```
+cd backend
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -319,8 +337,8 @@ uvicorn app.main:app --reload --port 8000
 ```
 
 ### Frontend Setup
-
 Open a second terminal:
+
 ```
 cd frontend
 npm install
@@ -328,79 +346,79 @@ npm run dev
 ```
 
 ## Usage Guide
-Open the frontend page.
-Upload a background image.
-Upload one or more asset images.
-Select an asset from the asset list.
-Enable drawing mode for the selected asset.
-Draw one or more regions on the background image.
-Apply the mask to the selected asset.
-The selected asset will appear in the drawn regions.
-Repeat the process for additional assets.
-Adjust each placement by moving, scaling, or rotating it.
-Save the current layout.
-Generate the final multi-asset composite image.
-Preview the generated result.
+- Open the frontend page.
+- Upload a background image.
+- Upload one or more asset images.
+- Select an asset from the asset list.
+- Enable drawing mode for the selected asset.
+- Draw one or more regions on the background image.
+- Apply the mask to the selected asset.
+- The selected asset will appear in the drawn regions.
+- Repeat the process for additional assets.
+- Adjust each placement by moving, scaling, or rotating it.
+- Save the current layout.
+- Generate the final multi-asset composite image.
+- Preview the generated result.
 
 ## Current Implementation Status
 
 The current version supports:
 
-Local project creation and restoration
-Background image upload
-Multiple asset uploads
-Per-asset mask drawing
-Automatic placement generation
-Multi-asset canvas editing
-Position, scale, rotation, and layer persistence
-Refresh recovery
-Backend/frontend restart recovery
-Multi-asset composite image generation
-Canvas zoom controls
+- Local project creation and restoration
+- Background image upload
+- Multiple asset uploads
+- Per-asset mask drawing
+- Automatic placement generation
+- Multi-asset canvas editing
+- Position, scale, rotation, and layer persistence
+- Refresh recovery
+- Backend/frontend restart recovery
+- Multi-asset composite image generation
+- Canvas zoom controls
 
 ## Current Limitations
 
 The current version does not yet include:
 
-User authentication
-Cloud storage
-Database persistence
-Team collaboration
-Production deployment
-Advanced perspective correction
-AI-based inpainting
-AI-based lighting correction
-Permission management
-Version history dashboard
+- User authentication
+- Cloud storage
+- Database persistence
+- Team collaboration
+- Production deployment
+- Advanced perspective correction
+- AI-based inpainting
+- AI-based lighting correction
+- Permission management
+- Version history dashboard
 
 ## Future Improvements
 
 Planned improvements include:
 
-PostgreSQL integration
-AWS S3 or Cloudflare R2 storage
-User account system
-Project dashboard
-Team collaboration
-AI-assisted edge blending
-AI-based shadow and lighting refinement
-Perspective transformation controls
-Exportable client reports
-Deployment with Docker
-Production environment configuration
-Automated testing pipeline
+- PostgreSQL integration
+- AWS S3 or Cloudflare R2 storage
+- User account system
+- Project dashboard
+- Team collaboration
+- AI-assisted edge blending
+- AI-based shadow and lighting refinement
+- Perspective transformation controls
+- Exportable client reports
+- Deployment with Docker
+- Production environment configuration
+- Automated testing pipeline
 
 ## Skills Demonstrated
-Python
-FastAPI
-React
-TypeScript
-REST API development
-Image processing
-File-system persistence
-Canvas interaction
-State management
-Full-stack debugging
-Product design thinking
-Software architecture
-Git and GitHub workflow
+- Python
+- FastAPI
+- React
+- TypeScript
+- REST API development
+- Image processing
+- File-system persistence
+- Canvas interaction
+- State management
+- Full-stack debugging
+- Product design thinking
+- Software architecture
+- Git and GitHub workflow
