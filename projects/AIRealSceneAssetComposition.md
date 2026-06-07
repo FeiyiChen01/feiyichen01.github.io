@@ -224,57 +224,6 @@ Local File Storage
 Project metadata, background images, asset images, masks, generated results
 ```
 
-## Project Structure
-
-```
-project-root/
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── config.py
-│   │   ├── models/
-│   │   │   └── project_models.py
-│   │   ├── routes/
-│   │   │   └── project_routes.py
-│   │   ├── services/
-│   │   │   ├── project_service.py
-│   │   │   └── compose_service.py
-│   │   └── storage/
-│   │       └── projects/
-│   │           └── project_xxxxx/
-│   │               ├── project.json
-│   │               ├── backgrounds/
-│   │               ├── assets/
-│   │               ├── asset_masks/
-│   │               └── results/
-│   ├── requirements.txt
-│   └── README.md
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.tsx
-│   │   ├── api.ts
-│   │   ├── styles.css
-│   │   └── main.tsx
-│   ├── package.json
-│   └── vite.config.ts
-│
-├── .gitignore
-└── README.md
-```
-
-## Local Storage Design
-
-Each project is stored under a unique project directory.
-```
-backend/app/storage/projects/
-└── project_xxxxx/
-    ├── project.json
-    ├── backgrounds/
-    ├── assets/
-    ├── asset_masks/
-    └── results/
-```
 
 The project.json file stores the full project state.
 
