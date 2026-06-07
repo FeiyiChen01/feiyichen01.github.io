@@ -3,11 +3,11 @@
     "name": "Feiyi Chen",
     "label": "Student",
     "picture": "https://github.com/FeiyiChen01.png",
-    "email": "feiyi@hawaii.edu",
+    "email": "feiyichen6@gmail.com",
     "phone": "808-670-9259",
     "website": "https://feiyichen01.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
-    "location": { "address": "3467 Maunaloa Ave", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Full-stack software developer with hands-on experience building web applications, backend workflows, REST API-based features, and data-driven systems. Proficient in Python, JavaScript, Java, SQL, React, Node.js, MongoDB, MySQL, Git, and Docker, with experience developing interactive applications, research data collection tools, and e-commerce platform workflows.",
+    "location": { "address": "190 Pleasant St", "postalCode": "02148", "city": "Malden  ", "countryCode": "USA", "region": "MA" },
     "profiles": [
       { "network": "github", "username": "FeiyiChen01", "url": "http://github.com/FeiyiChen01" },
       { "network": "linkedin", "username": "Feiyi Chen", "url": "http://linkedin.com/in/feiyi-chen-b73485234/" },
@@ -17,29 +17,38 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Game Design" },
-    { "name": "Web Developing" },
-    { "name": "3D Graphics" }
+    { "name": "Full-Stack Engineer" },
+    { "name": "AI Application" },
+    { "name": "Game Developer" }
   ],
   
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "Python", "JavaScript", "Java", "SQL", "C++", "C#" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "TI LaunchPad" ]
+      "keywords": [ "MongoDB", "MySQL", "Git", "Docker", "Linux", "Bash", "VS Code", "PyCharm", "IntelliJ IDEA"" ]
     }
   ],
   
   "education": [
         {
+      "institution": "Northeastern University, Boston, MA",
+      "area": "Master of Science in Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2022-01",
-      "endDate": "Present",
+      "endDate": "2024-5",
       "courses": [
       ]
     },
