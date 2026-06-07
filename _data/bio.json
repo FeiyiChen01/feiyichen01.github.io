@@ -29,7 +29,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MongoDB", "MySQL", "Git", "Docker", "Linux", "Bash", "VS Code", "PyCharm", "IntelliJ IDEA"" ]
+      "keywords": [ "MongoDB", "MySQL", "Git", "Docker", "Linux", "Bash", "VS Code", "PyCharm", "IntelliJ IDEA" ]
     }
   ],
   
