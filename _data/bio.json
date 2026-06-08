@@ -96,7 +96,7 @@
       "website": "https://www.edzsource.com/help?id=12",
       "startDate": "2019-01",
       "endDate": "2019-08",
-      "description": [
+      "highlights": [
         "Designed and implemented reusable frontend page structures for a Print-on-Demand e-commerce platform, including help-center articles, sidebar navigation, and step-by-step product listing guides.",
         "Built data-driven content layouts with HTML, CSS, and JavaScript, allowing Amazon, Shopify, and WooCommerce tutorials to share a reusable page template.",
         "Participated in designing product customization workflows that mapped user-uploaded 2D artwork onto footwear templates to generate final product preview images.",
