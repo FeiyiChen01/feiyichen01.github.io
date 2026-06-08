@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/GameReviewDatabase.png
+image: img/GameReviewDatabase.jpg
 title: "Game Review Database"
 date: 2025
 published: True
