@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: img/AIRealSceneAsset.png
-title: "AI Real Scene Asset Composition"
-date: 2026
+image: img/GameReviewDatabase.png
+title: "Game Review Database"
+date: 2025
 published: True
 labels:
   - Python
-  - FastAPI
-  - React
-  - TypeScript
-  - REST API development
-summary: "Full-stack visual composition platform for placing user-provided assets into real-world scene images with local persistence, per-asset masks, and multi-asset image generation."
+  - MySQL
+  - Selenium
+  - CSV
+  - SQL Stored Procedures
+summary: "This project is a Python and MySQL-based Game Review Database Platform that collects, stores, and manages structured video game information and reviews. I designed a normalized relational database for games, users, media outlets, reviews, companies, platforms, genres, and staff credits, then built a command-line application using PyMySQL to support account management, game browsing, search, and review CRUD operations. The project also includes custom BeautifulSoup and Selenium web scrapers to collect game data and reviews from Metacritic, with CSV import scripts and SQL stored procedures used to clean, load, and manage the data efficiently."
 ---
 # Game Review Database Platform
 
